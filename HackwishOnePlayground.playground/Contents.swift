@@ -6,13 +6,14 @@ var greeting = "Hello, playground"
 // var is only used when declaring the variable (container)
 var myFirstVariable: String
 
-myFirstVariable = "I've created my firsr variable"
+myFirstVariable = "I've created my firsr variable,"
 //myFirstvariable = "5"
 // QM is key for String, without it becomes intager
 
-var mySecondVariable = " and look I added 2 strings together."
+var mySecondVariable = " oh and look I added 2 strings together."
 //Sring concatenation
 
 var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
+
