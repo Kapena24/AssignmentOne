@@ -17,3 +17,18 @@ var myThirdVariable = myFirstVariable + mySecondVariable
 
 print(myThirdVariable)
 
+// Assignment #3 Introduction to True and False
+
+var appState = false
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne<numberTwo
+
+var numberThree = 6
+var numberFour = 9
+
+var comparisonTwo = numberThree>numberFour
+
+print(appState)
