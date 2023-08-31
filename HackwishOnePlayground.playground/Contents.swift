@@ -21,14 +21,14 @@ print(myThirdVariable)
 
 var appState = false
 
+print(appState)
+//create 2 new var of type int
+
 var numberOne = 5
 var numberTwo = 7
 
-var comparison = numberOne<numberTwo
+var comparison = numberOne>numberTwo
 
-var numberThree = 6
-var numberFour = 9
+print(comparison)
 
-var comparisonTwo = numberThree>numberFour
 
-print(appState)
